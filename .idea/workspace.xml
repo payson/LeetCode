@@ -73,11 +73,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegularExpressionMatching.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RegularExpressionMatching.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mySolutions/RegularExpressionMatching.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="53" selection-start="683" selection-end="683" vertical-scroll-proportion="0.7195767" vertical-offset="0" max-vertical-offset="918">
+            <state line="15" column="26" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseWordsInAString.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mySolutions/ReverseWordsInAString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="9" selection-start="616" selection-end="2097" vertical-scroll-proportion="0.6172608" vertical-offset="759" max-vertical-offset="1360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSum.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mySolutions/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="22" selection-start="579" selection-end="1391" vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="731">
+              <folding>
+                <element signature="e#679#697#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,13 +141,15 @@
         <option value="$PROJECT_DIR$/src/mySolutions/PlusOne.java" />
         <option value="$PROJECT_DIR$/src/mySolutions/RegularExpressionMatching.java" />
         <option value="$PROJECT_DIR$/src/mySolutionsTest/RegularExpressionMatchingTest.java" />
+        <option value="$PROJECT_DIR$/src/mySolutions/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/mySolutions/ReverseWordsInAString.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1176" />
+    <option name="x" value="-960" />
     <option name="y" value="-158" />
-    <option name="width" value="1176" />
+    <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -242,7 +264,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithms" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="recentsLimit" value="5" />
@@ -449,7 +471,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1176" y="-158" width="1176" height="1040" extended-state="0" />
+    <frame x="-960" y="-158" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -468,7 +490,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29874778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37028825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32918552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -594,9 +616,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/mySolutions/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="22" selection-start="579" selection-end="1391" vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="731">
+          <folding>
+            <element signature="e#679#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/RegularExpressionMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="53" selection-start="683" selection-end="683" vertical-scroll-proportion="0.7195767" vertical-offset="0" max-vertical-offset="918">
+        <state line="15" column="26" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mySolutions/ReverseWordsInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="9" selection-start="616" selection-end="2097" vertical-scroll-proportion="0.6172608" vertical-offset="759" max-vertical-offset="1360">
           <folding />
         </state>
       </provider>
