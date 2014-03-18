@@ -64,11 +64,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PopulatingNextRightPointersInEachNode.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PopulatingNextRightPointersInEachNode.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mySolutions/PopulatingNextRightPointersInEachNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.2224299" vertical-offset="0" max-vertical-offset="535">
+            <state line="7" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegularExpressionMatching.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mySolutions/RegularExpressionMatching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="53" selection-start="683" selection-end="683" vertical-scroll-proportion="0.7195767" vertical-offset="0" max-vertical-offset="918">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegularExpressionMatchingTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mySolutionsTest/RegularExpressionMatchingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="48" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,13 +119,16 @@
         <option value="$PROJECT_DIR$/src/mySolutions/MaximumSubarray.java" />
         <option value="$PROJECT_DIR$/src/mySolutions/ClimbingStairs.java" />
         <option value="$PROJECT_DIR$/src/mySolutions/PlusOne.java" />
+        <option value="$PROJECT_DIR$/src/mySolutions/RegularExpressionMatching.java" />
+        <option value="$PROJECT_DIR$/src/mySolutionsTest/RegularExpressionMatchingTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+    <option name="x" value="-1176" />
+    <option name="y" value="-158" />
+    <option name="width" value="1176" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -166,6 +189,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="mySolutionsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="mySolutions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -200,8 +241,44 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="mySolutionsTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RegularExpressionMatchingTest">
+    <configuration default="false" name="RegularExpressionMatchingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="mySolutionsTest" />
+      <option name="MAIN_CLASS_NAME" value="mySolutionsTest.RegularExpressionMatchingTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -329,7 +406,14 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.RegularExpressionMatchingTest" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RegularExpressionMatchingTest" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -365,26 +449,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="728" extended-state="0" />
+    <frame x="-1176" y="-158" width="1176" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29874778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32918552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -408,132 +493,110 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/mySolutions/SameTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="571" selection-end="571" vertical-scroll-proportion="0.49610895" vertical-offset="0" max-vertical-offset="514">
-          <folding />
-        </state>
+        <state line="15" column="1" selection-start="571" selection-end="571" vertical-scroll-proportion="0.49610895" vertical-offset="0" max-vertical-offset="514" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/BestTimeToBuyAndSellStock2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="9" selection-start="970" selection-end="970" vertical-scroll-proportion="0.7288136" vertical-offset="64" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="24" column="9" selection-start="970" selection-end="970" vertical-scroll-proportion="0.7288136" vertical-offset="64" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/UniqueBinarySearchTrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="1" selection-start="824" selection-end="824" vertical-scroll-proportion="0.7586207" vertical-offset="153" max-vertical-offset="646">
-          <folding />
-        </state>
+        <state line="31" column="1" selection-start="824" selection-end="824" vertical-scroll-proportion="0.7586207" vertical-offset="153" max-vertical-offset="646" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dataStructures/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="11" selection-start="178" selection-end="178" vertical-scroll-proportion="0.29032257" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="9" column="11" selection-start="178" selection-end="178" vertical-scroll-proportion="0.29032257" vertical-offset="0" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="5" selection-start="504" selection-end="504" vertical-scroll-proportion="0.6451613" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="20" column="5" selection-start="504" selection-end="504" vertical-scroll-proportion="0.6451613" vertical-offset="0" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/MaximumDepthOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="36" selection-start="263" selection-end="263" vertical-scroll-proportion="0.2224299" vertical-offset="0" max-vertical-offset="535">
-          <folding />
-        </state>
+        <state line="7" column="36" selection-start="263" selection-end="263" vertical-scroll-proportion="0.2224299" vertical-offset="0" max-vertical-offset="535" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.44827586" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
+        <state line="13" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.44827586" vertical-offset="0" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/LinkedListCycle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="25" selection-start="329" selection-end="329" vertical-scroll-proportion="0.3548387" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="11" column="25" selection-start="329" selection-end="329" vertical-scroll-proportion="0.3548387" vertical-offset="0" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dataStructures/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="20" selection-start="206" selection-end="206" vertical-scroll-proportion="0.32258064" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="10" column="20" selection-start="206" selection-end="206" vertical-scroll-proportion="0.32258064" vertical-offset="0" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="19" selection-start="628" selection-end="628" vertical-scroll-proportion="0.3067376" vertical-offset="286" max-vertical-offset="850">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#470#479#0" expanded="true" />
-            <element signature="e#534#544#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="27" column="19" selection-start="628" selection-end="628" vertical-scroll-proportion="0.3067376" vertical-offset="286" max-vertical-offset="850" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/BinaryTreePreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="60" selection-start="419" selection-end="419" vertical-scroll-proportion="0.63297874" vertical-offset="0" max-vertical-offset="782">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#473#482#0" expanded="true" />
-            <element signature="e#537#547#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="21" column="60" selection-start="419" selection-end="419" vertical-scroll-proportion="0.63297874" vertical-offset="0" max-vertical-offset="782" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/SearchInsertPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="31" selection-start="488" selection-end="488" vertical-scroll-proportion="0.5622568" vertical-offset="0" max-vertical-offset="629">
-          <folding />
-        </state>
+        <state line="17" column="31" selection-start="488" selection-end="488" vertical-scroll-proportion="0.5622568" vertical-offset="0" max-vertical-offset="629" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/RemoveDuplicatesFromSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="18" selection-start="675" selection-end="675" vertical-scroll-proportion="0.7937743" vertical-offset="0" max-vertical-offset="612">
+        <state line="24" column="18" selection-start="675" selection-end="675" vertical-scroll-proportion="0.7937743" vertical-offset="0" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mySolutions/PlusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="26" selection-start="681" selection-end="681" vertical-scroll-proportion="0.6614786" vertical-offset="34" max-vertical-offset="561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mySolutions/ClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="551" selection-end="551" vertical-scroll-proportion="0.6284047" vertical-offset="0" max-vertical-offset="514" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mySolutions/MaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="9" selection-start="536" selection-end="536" vertical-scroll-proportion="0.49610895" vertical-offset="0" max-vertical-offset="514" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mySolutions/PopulatingNextRightPointersInEachNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mySolutionsTest/RegularExpressionMatchingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="48" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mySolutions/PlusOne.java">
+    <entry file="file://$PROJECT_DIR$/src/mySolutions/RegularExpressionMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="26" selection-start="681" selection-end="681" vertical-scroll-proportion="0.6614786" vertical-offset="34" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mySolutions/ClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="551" selection-end="551" vertical-scroll-proportion="0.6284047" vertical-offset="0" max-vertical-offset="514">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mySolutions/MaximumSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="9" selection-start="536" selection-end="536" vertical-scroll-proportion="0.49610895" vertical-offset="0" max-vertical-offset="514">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mySolutions/PopulatingNextRightPointersInEachNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.2224299" vertical-offset="0" max-vertical-offset="535">
+        <state line="24" column="53" selection-start="683" selection-end="683" vertical-scroll-proportion="0.7195767" vertical-offset="0" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
