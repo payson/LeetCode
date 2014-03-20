@@ -82,11 +82,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseWordsInAString.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ReverseWordsInAString.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mySolutions/ReverseWordsInAString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="9" selection-start="616" selection-end="2097" vertical-scroll-proportion="0.6172608" vertical-offset="759" max-vertical-offset="1360">
+            <state line="59" column="20" selection-start="1802" selection-end="1802" vertical-scroll-proportion="0.0" vertical-offset="759" max-vertical-offset="1360">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mySolutions/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="23" selection-start="445" selection-end="445" vertical-scroll-proportion="0.21269296" vertical-offset="80" max-vertical-offset="663">
+              <folding>
+                <element signature="e#569#587#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolutionTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mySolutionsTest/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="40" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,7 +116,7 @@
       <file leaf-file-name="TwoSum.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mySolutions/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="22" selection-start="579" selection-end="1391" vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="731">
+            <state line="20" column="23" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
               <folding>
                 <element signature="e#679#697#0" expanded="true" />
               </folding>
@@ -105,7 +127,7 @@
       <file leaf-file-name="RegularExpressionMatchingTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mySolutionsTest/RegularExpressionMatchingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="48" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+            <state line="5" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,17 +162,19 @@
         <option value="$PROJECT_DIR$/src/mySolutions/ClimbingStairs.java" />
         <option value="$PROJECT_DIR$/src/mySolutions/PlusOne.java" />
         <option value="$PROJECT_DIR$/src/mySolutions/RegularExpressionMatching.java" />
-        <option value="$PROJECT_DIR$/src/mySolutionsTest/RegularExpressionMatchingTest.java" />
         <option value="$PROJECT_DIR$/src/mySolutions/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/mySolutions/ReverseWordsInAString.java" />
+        <option value="$PROJECT_DIR$/src/mySolutionsTest/RegularExpressionMatchingTest.java" />
+        <option value="$PROJECT_DIR$/src/mySolutionsTest/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/mySolutions/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-960" />
-    <option name="y" value="-158" />
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-166" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -269,6 +293,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -278,18 +303,40 @@
       <recent name="mySolutionsTest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RegularExpressionMatchingTest">
+  <component name="RunManager" selected="JUnit.SolutionTest">
     <configuration default="false" name="RegularExpressionMatchingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="mySolutionsTest" />
       <option name="MAIN_CLASS_NAME" value="mySolutionsTest.RegularExpressionMatchingTest" />
-      <option name="METHOD_NAME" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="mySolutionsTest" />
+      <option name="MAIN_CLASS_NAME" value="mySolutionsTest.SolutionTest" />
+      <option name="METHOD_NAME" value="testSolution" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -428,12 +475,14 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JUnit.RegularExpressionMatchingTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.RegularExpressionMatchingTest" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RegularExpressionMatchingTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -471,7 +520,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-960" y="-158" width="960" height="1040" extended-state="0" />
+    <frame x="-1928" y="-166" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -490,8 +539,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37028825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32918552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17784877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32333332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -609,7 +658,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutionsTest/RegularExpressionMatchingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="48" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+        <state line="5" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -618,9 +667,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="22" selection-start="579" selection-end="1391" vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="731">
+        <state line="20" column="23" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
           <folding>
             <element signature="e#679#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mySolutionsTest/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="40" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -634,8 +692,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mySolutions/ReverseWordsInAString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="9" selection-start="616" selection-end="2097" vertical-scroll-proportion="0.6172608" vertical-offset="759" max-vertical-offset="1360">
+        <state line="59" column="20" selection-start="1802" selection-end="1802" vertical-scroll-proportion="0.0" vertical-offset="759" max-vertical-offset="1360">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mySolutions/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="23" selection-start="445" selection-end="445" vertical-scroll-proportion="0.21269296" vertical-offset="80" max-vertical-offset="663">
+          <folding>
+            <element signature="e#569#587#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
