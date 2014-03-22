@@ -4,6 +4,7 @@ import dataStructures.ListNode;
 
 /**
  * Created by Payson Wu on 20/03/14.
+ * Sort a linked list
  */
 public class SortList {
     public ListNode sortList(ListNode head) {
